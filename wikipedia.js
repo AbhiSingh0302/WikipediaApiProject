@@ -48,33 +48,3 @@ function fetchApi(value){
     })
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-// fetch('https://en.wikipedia.org/w/api.php?action=query&list=search&prop=info&inprop=url&utf8=&format=json&origin=*&srlimit=20&srsearch=india')
-// .then(res=>res.json())
-// .then(data=>{
-//     console.log(data);
-//     for(let key in data){
-//         console.log(key);
-//         console.log(data[key]);
-//         for(let key2 in data[key]){
-//             console.log(data[key][key2]);
-//             for(let key3 in data[key][key2]){
-//                 console.log(data[key][key2][key3])
-//                 for(let key4 in data[key][key2][key3]){
-//                     console.log(data[key][key2][key3][key4])
-//                 }
-//             }
-//         }
-//     }
-// })
