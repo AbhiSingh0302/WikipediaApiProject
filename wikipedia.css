@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+img{
+    height: 15rem;
+}
+
+header,main{
+    text-align: center;
+}
+
+input{
+    width: 30%;
+    font-size: 1rem;
+    padding: 10px;
+    margin-bottom: 2rem;
+}
+
+article{
+    text-align: start;
+    width: 30%;
+    margin: auto;
+}
+
+p{
+    margin-bottom: 2rem;
+}
+
+h2{
+    color: blue;
+}
+
+a,a:visited{
+    color: green;
+}
+
